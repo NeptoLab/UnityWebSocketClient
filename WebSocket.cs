@@ -12,7 +12,7 @@ using AOT;
 
 using UnityEngine;
 
-namespace NativeWebSocket
+namespace UnityClientWebSocket
 {
 	public delegate void WebSocketOpenEventHandler();
 	public delegate void WebSocketMessageEventHandler(byte[] data);
